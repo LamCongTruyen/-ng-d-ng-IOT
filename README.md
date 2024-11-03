@@ -8,11 +8,13 @@ Tôi lựa chọn mạch điều khiển là ESP32 vì các ưu điểm phù h�
 Về phần mềm, tôi chọn PlatformMIO (là một plugin có khả năng lập trình Arduino) nhận thấy rằng tốc độ nạp chương trình nhanh 
 và giao diện hiển thị thuận tiện hơn trong quá trình làm việc cũng như sửa lỗi cho nên đây là lựa chọn để tôi thực hiện đề tài này.
 
-Tổng quan về sơ đồ khối hệ thống
+Tổng quan về sơ đồ khối hệ thống:
 
 ![image](https://github.com/user-attachments/assets/8de31ed9-d517-411c-8317-847a75b711f3)
 
 ![image](https://github.com/user-attachments/assets/451dcbfe-46cc-4930-835d-e684eb059fdc)
+
+Hình ảnh sản phẩm thực tế:
 
 ![image](https://github.com/user-attachments/assets/c4166df1-c821-4a1e-98a7-072a41ff9d50)
 
