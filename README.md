@@ -9,10 +9,15 @@ Về phần mềm, tôi chọn PlatformMIO (là một plugin có khả năng l�
 và giao diện hiển thị thuận tiện hơn trong quá trình làm việc cũng như sửa lỗi cho nên đây là lựa chọn để tôi thực hiện đề tài này.
 
 Tổng quan về sơ đồ khối hệ thống
+
+![image](https://github.com/user-attachments/assets/8de31ed9-d517-411c-8317-847a75b711f3)
+
 ![image](https://github.com/user-attachments/assets/451dcbfe-46cc-4930-835d-e684eb059fdc)
+
 ![image](https://github.com/user-attachments/assets/c4166df1-c821-4a1e-98a7-072a41ff9d50)
 
 Giao diện ứng dụng điều khiển:
+
 ![image](https://github.com/user-attachments/assets/07b649ea-2e7e-47ac-aa97-f363bcf7e597)
 ![image](https://github.com/user-attachments/assets/7280a2aa-59f6-4226-af67-5c60366dd2f6)
 
